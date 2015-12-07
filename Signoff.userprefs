@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 7 (Lollipop)" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Signoff\SignatureHistory.cs">
     <Files>
-      <File FileName="Signoff\Signature.cs" Line="25" Column="1" />
+      <File FileName="Signoff\Signature.cs" Line="1" Column="1" />
       <File FileName="Signoff\SignatureHistory.cs" Line="35" Column="4" />
-      <File FileName="Signoff\HistoryAdapter.cs" Line="49" Column="1" />
-      <File FileName="Signoff\MainActivity.cs" Line="126" Column="1" />
+      <File FileName="Signoff\HistoryAdapter.cs" Line="1" Column="1" />
+      <File FileName="Signoff\MainActivity.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
