@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Signoff\Signoff.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 7 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Signoff\SignatureHistory.cs">
+    <Files>
+      <File FileName="Signoff\Signature.cs" Line="25" Column="1" />
+      <File FileName="Signoff\SignatureHistory.cs" Line="35" Column="4" />
+      <File FileName="Signoff\HistoryAdapter.cs" Line="49" Column="1" />
+      <File FileName="Signoff\MainActivity.cs" Line="126" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Signoff\SignatureHistory.cs" line="61" offsetX="466" offsetY="960" expression="signatureItems" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Signoff AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
